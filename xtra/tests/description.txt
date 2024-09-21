@@ -1,0 +1,5 @@
+00: loadi
+01: arithmetic
+02: bitwise
+03: relational
+04: push/pop
