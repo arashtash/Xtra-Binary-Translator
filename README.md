@@ -17,6 +17,12 @@ As a part of my Systems Programming course at Dalhousie University, this project
 As I am only the author of the program and not the Xtra assembler's code, you may not publish, or use the files that are not written by me in any way without the author's permission. You are allowed to use the part of the project that is mine in accordance with the MIT license shared in the repository.
 
 
+# Author
+Arash Tashakori
+
+[Website and Contact information](https://arashtash.github.io/)
+
+
 # License
 MIT License
 
