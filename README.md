@@ -15,3 +15,19 @@ As a part of my Systems Programming course at Dalhousie University, this project
 
 # Copyright and Ownership
 As I am only the author of the program and not the Xtra assembler's code, you may not publish, or use the files that are not written by me in any way without the author's permission. You are allowed to use the part of the project that is mine in accordance with the MIT license shared in the repository.
+
+
+# License
+MIT License
+
+Copyright (c) 2024 Arash Tashakori
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software (except the following files: xas.c, xis.h, xreloc.c, and xreloc.h) and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+YOU DO NOT HAVE THE PERMISSION TO USE THE FOLLOWING FILES WITHOUT THE AUTHOR'S PERMISSION: xas.c, xis.h, xreloc.c, and xreloc.h
+
+
